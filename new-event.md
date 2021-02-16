@@ -10,10 +10,8 @@ _Please complete all applicable._
 - **Event social media**: https://www.instagram.com/c2c.acmvit/, https://www.facebook.com/ACM.VITU/,https://www.instagram.com/acmvit/
 - **Event description**: 
 
-Code2Create is the flagship event of ACM-VIT Student Chapter. It's a tech-based 36 hour hackathon conducted to deal with globally trending problem statements with different tracks like healthcare,fintech,space etc to choose from for the participants.Started in 2017, this will be the fifth edition of this event.Github has been the title sponsor in the past two editions  
-
+Code2Create is the flagship event of ACM-VIT Student Chapter. It's a tech-based 36 hour hackathon conducted to deal with globally trending problem statements with different tracks like healthcare,fintech,space etc to choose from for the participants.Started in 2017, this will be the fifth edition of this event. Github has been the title sponsor in the past two editions. 
 Students from all over the country are eligible to participate in Code2Create. 
-
 It will also have mini-events, workshops,key note speaker sessions from reputed companies in the event and a range of prizes for the winners.
 
 ## ✨ How does this benefit your local community?
